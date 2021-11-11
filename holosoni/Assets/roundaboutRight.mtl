@@ -1,0 +1,46 @@
+# Blender MTL File: 'None'
+# Material Count: 4
+
+newmtl CursorColor
+Ns 9.803922
+Ka 1.000000 1.000000 1.000000
+Kd 0.320000 0.320000 0.320000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+
+newmtl CursorShadow
+Ns 9.803922
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd HoloToolkit\\UX\\Models\\Cursor\\Cursor_move\\CursorRing.fbm\\circle_shadow.png
+map_d HoloToolkit\\UX\\Models\\Cursor\\Cursor_move\\CursorRing.fbm\\circle_shadow.png
+
+newmtl Joystickwhite
+Ns 9.803922
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+
+newmtl lambert6
+Ns 9.803922
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd HoloToolkit\\UX\\Models\\Cursor\\Cursor_move\\CursorRing.fbm\\scroll_ring_shadow.png
+map_d HoloToolkit\\UX\\Models\\Cursor\\Cursor_move\\CursorRing.fbm\\scroll_ring_shadow.png
